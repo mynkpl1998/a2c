@@ -12,5 +12,5 @@ use-seed: false
 seed: 0
 use-density: false
 density: 0.8
-init-velocity: true
+init-velocity: false
 init-vel: 0.0
