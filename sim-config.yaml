@@ -1,0 +1,16 @@
+render: false
+time-period: 0.1
+view-size: 10
+cell-size: 1
+rows: 8
+max-velocity: 9
+lanes: 3
+fps: 30
+car-acc: 0.73
+car-dec: 1.67
+use-seed: false
+seed: 0
+use-density: false
+density: 0.8
+init-velocity: true
+init-vel: 0.0
